@@ -8,6 +8,10 @@
 
 I’m Antonio Luis Jiménez de la Fuente, a fourth-year Software Engineering student at the University of Seville. I’ve been involved in several projects throughout my time as a student, with a special interest in the field of AI (even though I still have a lot to learn). Here you’ll find some of the technologies I’ve worked with. Nice to meet you!
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonioluisjf22&theme=tokyonight)
+
+![Antonio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonioluisjf22&theme=vue)
+
 <h3>🔭 Already worked with these tools:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
