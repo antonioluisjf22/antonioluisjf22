@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+<div align="center">
+  <img src="hi.gif" alt="Hello" width="300"/>
+  <br>
+  <small><em>GIF selected from: <a href="https://github.com/rudrabarad/Gifs">rudrabarad/Gifs</a></em></small>
+</div>
+
 I’m Antonio Luis Jiménez de la Fuente, a fourth-year Software Engineering student at the University of Seville. I’ve been involved in several projects throughout my time as a student, with a special interest in the field of AI (even though I still have a lot to learn). Here you’ll find some of the technologies I’ve worked with. Nice to meet you!
 
 <h3>🔭 Already worked with these tools:</h3>
@@ -36,13 +42,11 @@ I’m Antonio Luis Jiménez de la Fuente, a fourth-year Software Engineering stu
 
 <h3>📫 How to reach me:</h3>
 
-#### 📧 Email Addresses:
 - **Personal email:** antonioluisjf22@gmail.com
 - **University email:** antjimde@alum.us.es
 
-<h3>⚡ Fun fact:</h3>
+<h3>🌍 Interests & Hobbies:</h3>
 
-#### 🌍 Interests & Hobbies:
 - **Travelling** - Exploring new places and cultures
 - **Listening to music** - I have a very varied taste in music
 - **Going to the gym** - Staying healthy and fit
