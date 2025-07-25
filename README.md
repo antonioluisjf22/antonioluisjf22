@@ -53,10 +53,7 @@ I hold a B2 English certificate and I’m aiming to obtain the C1 certification 
 
 - **Personal email:** antonioluisjf22@gmail.com
 - **University email:** antjimde@alum.us.es
-- 
-  <a href="linkedin.com/in/antonio-luis-jiménez-de-la-fuente-b940a9377">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
-  </a>
+- **Linkedin proffile:** https://www.linkedin.com/in/antonio-luis-jim%C3%A9nez-de-la-fuente-b940a9377/
 
 <h3>🌍 Interests & Hobbies:</h3>
 
