@@ -13,9 +13,28 @@ I’m currently expanding my knowledge in technologies related to system behavio
 I hold a B2 English certificate and I’m aiming to obtain the C1 certification in the future 🎯.
 
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antonioluisjf22&theme=tokyonight)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=antonioluisjf22&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=antonioluisjf22&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=antonioluisjf22&theme=tokyonight&hide_border=true)
+
 ![Antonio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonioluisjf22&theme=vue)
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=antonioluisjf22&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
 
 <h3>🔭 Already worked with these tools:</h3>
 <p>
