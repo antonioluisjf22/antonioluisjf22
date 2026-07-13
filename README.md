@@ -6,14 +6,14 @@
   <small><em>GIF selected from: <a href="https://github.com/rudrabarad/Gifs">rudrabarad/Gifs</a></em></small>
 </div>
 
-I’m Antonio Luis Jiménez de la Fuente, a fourth-year Software Engineering student at the University of Seville. I’ve been involved in several projects throughout my time as a student, with a special interest in the field of AI, specifically in learning the behavior of systems 🤖 (even though I still have a lot to learn).
+I’m Antonio Luis Jiménez de la Fuente, a fourth-year Software Engineering student at the University of Seville. I’ve been involved in several projects throughout my time as a student, with a special interest in the field of AI, specifically in learning the behavior of systems (even though I still have a lot to learn).
 
 I’m currently expanding my knowledge in Python and technologies related to system behavior learning, such as NumPy, Pandas, Scikit-learn, TensorFlow, and NetLogo for model building and simulation.
 
 I hold a B2 English certificate and I’m aiming to obtain the C1 certification in the future.
 
 
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonioluisjf22&show_icons=true&theme=tokyonight)
+![Antonio's GitHub stats](https://github-readme-stats-antonioluisjf.vercel.app/api?username=antonioluisjf22&show_icons=true&theme=tokyonight)
 
 ![Antonio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonioluisjf22&theme=vue)
 
