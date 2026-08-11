@@ -56,7 +56,7 @@ I hold a B2 English certificate and I’m aiming to obtain the C1 certification 
 - **University email:** antjimde@alum.us.es
 - **Linkedin proffile:** https://www.linkedin.com/in/antonio-luis-jim%C3%A9nez-de-la-fuente-b940a9377/
 
-<h3>🌍 Interests & Hobbies:</h3>
+<h3> Interests & Hobbies:</h3>
 
 - **Travelling** - Exploring new places and cultures
 - **Listening to music** - I have a very varied taste in music
