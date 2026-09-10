@@ -15,7 +15,7 @@ I hold a B2 English certificate and I’m aiming to obtain the C1 certification 
 
 ![Antonio's GitHub stats](https://github-readme-stats-antonioluisjf.vercel.app/api?username=antonioluisjf22&show_icons=true&theme=tokyonight)
 
-![Antonio's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=antonioluisjf22&theme=vue)
+![Antonio's Activity Graph](https://github-readme-activity-graph-antonioluisjf22.vercel.app/graph?username=antonioluisjf22&theme=vue)
 
 <h3>🔭 Already worked with these tools:</h3>
 <p>
